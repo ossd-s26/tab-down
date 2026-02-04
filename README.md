@@ -1,2 +1,2 @@
 # tab-down
-Configurable tab dropdowns for web browser organization.
+Configurable tab dropdowns for personalized web-browser organization.
