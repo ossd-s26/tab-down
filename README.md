@@ -15,3 +15,11 @@ The goal is to reduce tab switching and keep workflows cleaner, especially for t
    ```
    git clone https://github.com/ossd-s26/tab-down
    ```
+   
+2. Open your browser’s extensions page
+   - Chrome: chrome://extensions
+   - Firefox: about:debugging#/runtime/this-firefox
+
+3. Enable Developer Mode
+
+4. Load the src/ folder as an unpacked extension
