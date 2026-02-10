@@ -23,3 +23,10 @@ The goal is to reduce tab switching and keep workflows cleaner, especially for t
 3. Enable Developer Mode
 
 4. Load the src/ folder as an unpacked extension
+
+## Other Useful Project Links
+[Project License](https://github.com/ossd-s26/tab-down/edit/main/LICENSE)
+
+[For Aspiring Contributors](https://github.com/ossd-s26/tab-down/edit/main/CONTRIBUTING.md)
+
+[Our Code of Conduct](https://github.com/ossd-s26/tab-down/edit/main/CODE_OF_CONDUCT.md)
