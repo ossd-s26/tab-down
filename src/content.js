@@ -3,12 +3,13 @@ const drawerHTML = `
   <div id="hover-trigger-zone"></div>
   <div id="hover-slide-container">
     <div class="drawer-header" style="background: #1e1f22; color: #dbdee1; display: flex; justify-content: space-between; padding: 10px;">
-        <span>TabDown</span>
+        <span id="drawer-title">TabDown</span>
         <span style="font-size: 10px; opacity: 0.5;">Move mouse away to hide</span>
     </div>
     <iframe 
         id="drawer-iframe" 
         src="about:blank"
+        allow="microphone; camera; display-capture; autoplay; clipboard-write;"
         ></iframe>
   </div>
 `;
