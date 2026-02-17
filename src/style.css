@@ -18,18 +18,19 @@
 
 #hover-slide-container {
     position: fixed;
-    top: -860px; 
+    width: 50vw;     
+    height: 85vh;    
+    top: -90vh;
     right: 0; 
-    width: 800px; 
-    height: 850px; 
     background: #313338; 
     box-shadow: -5px 0px 25px rgba(0,0,0,0.5);
     z-index: 2147483647;
     transition: top 0.5s cubic-bezier(0.19, 1, 0.22, 1);
     border-radius: 0 0 0 15px; 
-    overflow: hidden;
+    
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 #hover-slide-container.active {
